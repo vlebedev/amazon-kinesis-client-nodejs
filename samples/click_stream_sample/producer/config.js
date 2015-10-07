@@ -18,7 +18,7 @@ permissions and limitations under the License.
 var config = module.exports = {
   kinesis : {
     // Region for the Amazon Kinesis stream.
-    region : 'us-east-1'
+    region : 'eu-west-1'
   },
 
   clickStreamProducer : {
